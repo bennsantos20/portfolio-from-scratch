@@ -5,4 +5,4 @@ This portfolio is an attempted recreation of a completed portfolio using CSS and
 
 ![Portfolio Site](./images/screenshot.png)
 
-[portfolio-from-scratch] 
+[portfolio-from-scratch](https://bennsantos20.github.io/portfolio-from-scratch/)
